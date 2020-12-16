@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Ekstra!!
+:germany: Powoli do przodu!! :running:
 Use the left arrow to go back!
